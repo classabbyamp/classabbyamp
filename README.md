@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋
 
-<!--
-**classabbyamp/classabbyamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a maintainer of projects like [void linux](https://voidlinux.org), [zfsbootmenu](https://zfsboot.menu), and a number of projects by [miaowware](https://miaow.io).
 
-Here are some ideas to get you started:
+[![powered by void linux](/button.gif)](https://voidlinux.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### say hi:
+
+[![#miaowware on libera.chat](https://www.miaow.io/irc_shield.svg)](https://web.libera.chat/?channel=#miaowware)
+
+### if you enjoy the work i do, consider sponsoring me
+
+- [github sponsors](https://github.com/sponsors/classabbyamp)
+- [liberapay](https://liberapay.com/miaowware)
+- [ko-fi](https://ko-fi.com/miaowware)
