@@ -6,3 +6,5 @@ most of my projects and activity are in the [miaowware](https://github.com/miaow
 
 [![#miaowware on Libera.chat](https://www.miaow.io/irc_shield.svg)](https://web.libera.chat/?channel=#miaowware)
 [![Discord Server](https://discordapp.com/api/guilds/837744723183140924/widget.png?style=shield)](https://discord.gg/YrJWRrND7T)
+
+[![powered by Void Linux](/button.gif)](https://voidlinux.org)
